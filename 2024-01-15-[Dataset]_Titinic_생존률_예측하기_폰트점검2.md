@@ -6,7 +6,7 @@
       height: 240px;
       display: block;
       overflow: auto;
-      font-family: Arial, sans-serif;
+      font-family: NanumSquare, sans-serif;
       font-size: 0.9rem;
       line-height: 20px;
       text-align: center;
